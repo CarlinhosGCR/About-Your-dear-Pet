@@ -1,0 +1,144 @@
+* {
+   box-sizing: border-box;
+   font-family: "Montserrat", sans-serif;
+   margin: 0;
+   padding: 0;
+}
+
+header {
+   margin: 44px 0px 144px 76px;
+}
+
+
+.link {
+   color: #989D9C;
+   font-size: 24px;
+   font-weight: 600;
+   margin-right: 23px;
+   cursor: pointer;
+}
+
+.link:hover {
+   color: #665AE1;
+}
+
+.link:active {
+   color: #ADFF00;
+}
+
+.button-1 {
+   color: #FFF;
+   font-size: 24px;
+   font-weight: 600;
+   border-radius: 50px;
+   width: 130px;
+   height: 41px;
+   background: #665AE1;
+   border: none;
+   cursor: pointer;
+}
+
+.button-1:hover {
+   color: #ADFF00;
+}
+
+.button-1:active {
+
+   color: #b006ff;
+}
+
+img {
+   display: inline-block;
+   width: 568px;
+   height: 500px;
+   margin: 0px 86px 183px 125px;
+}
+
+section {
+   display: inline-block;
+   bottom: 243px;
+   position: relative;
+}
+
+h1 {
+   color: #515151;
+   font-size: 100px;
+   font-weight: 900;
+}
+
+h2 {
+   color: #515151;
+   font-size: 58px;
+   font-weight: 500;
+}
+
+p {
+   color: #848484;
+   font-size: 24px;
+   font-weight: 400;
+   width: 515px;
+   margin: 32px 146px 65px 0;
+}
+
+.button-2 {
+   border-radius: 20px;
+   width: 239px;
+   height: 64px;
+   background: #ADFF00;
+   border: none;
+   color: #000;
+   font-size: 28px;
+   font-weight: 700;
+   cursor: pointer;
+
+}
+
+.button-2:hover {
+   color: #00974c;
+}
+
+.button-2:active {
+
+   color: #6403a5;
+}
+
+@media screen and (max-width: 800px) {
+
+   header {
+      display: none;
+   }
+
+   img {
+      width: 354px;
+      height: 317px;
+      margin: 149px 22px 24px 22px;
+     display: block;
+
+   }
+
+   section {
+      text-align: center;
+      display: block;
+      position:static ;
+   }
+
+
+h1{
+
+   font-size: 50px;
+   font-weight: 900;
+
+}
+
+h2{ 
+   font-size: 30px;
+   font-weight: 500;
+
+
+}
+
+   p {
+      display: none;
+   }
+
+}
