@@ -14,4 +14,4 @@
 <li>Botão "Explore" para mais conteúdo</li>
 </ol>
 
-<img src= 
+<img src=./We-Care-Code
