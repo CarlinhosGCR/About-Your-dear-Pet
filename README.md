@@ -14,5 +14,5 @@
 <li>Botão "Explore" para mais conteúdo</li>
 </ol>
 
-<img src= 
+<img src="https://github.com/CarlinhosGCR/About-Your-dear-Pet/blob/main/We_Care-Code/Captura%20de%20tela%202024-11-02%20160125.png?raw=true">
 
