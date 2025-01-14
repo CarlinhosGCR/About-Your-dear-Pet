@@ -109,10 +109,12 @@ p {
    }
 
    img {
-      width: 354px;
+      max-width: 315px;
       height: 317px;
-      margin: 149px 22px 24px 22px;
-     display: block;
+      margin: 148px 50px 24px 41px;
+      display: inline-block;
+      position: sticky;
+      left: 201px;
 
    }
 
